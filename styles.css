@@ -1,0 +1,52 @@
+body {
+    background-color: cornflowerblue; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    margin: 20px;
+}
+main {
+    color: black; 
+    text-align: center; 
+    margin: auto; 
+    padding: 10px;
+}
+a {
+    color: navy; 
+    text-decoration: none;
+}
+a:hover {
+    color: orangered;
+}
+ul, ol {
+  text-align: left;
+  list-style-position: inside;
+  list-style-type: square;
+  margin-left: auto;
+  margin-right: auto;
+}
+  img {
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+  hr {
+    border: none;
+    border-top: 2px solid black; 
+    margin: 20px; 
+    width: auto;
+}
+  section {
+    border: 2px solid black; 
+    padding: 20px; 
+    margin: 20px auto;
+    border-radius: 10px; 
+    background-color: white;
+}
+  h1 {
+    font-size: 50px; 
+    text-decoration: underline;
+}
+  .lasagna, .cats {
+     margin: 0 auto;
+}
